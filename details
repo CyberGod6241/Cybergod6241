@@ -1,0 +1,15 @@
+interface Developer {
+    name: string;
+    age: number;
+    experience: string;
+    focus: string[];
+    location: string;
+}
+
+const me: Developer = {
+    name: "Robinson Honour",
+    age: 19,
+    experience: "7.5+ years",
+    focus: ["Web Development", "Mobile Apps", "Robotics", "DevOps", "Cloud Infrastructure"],
+    location: "Nigeria",
+};
