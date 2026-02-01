@@ -1,16 +1,16 @@
-## Hi there 👋
+Naim Abdulazeez - Nigerian software developer and tech creator with over 4.5 years of experience building production-grade applications across web, mobile, robotics, and cloud infrastructure.
+interface Developer {
+    name: string;
+    age: number;
+    experience: string;
+    focus: string[];
+    location: string;
+}
 
-<!--
-**CyberGod6241/Cybergod6241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const me: Developer = {
+    name: "Naim Abdulazeez",
+    age: 22,
+    experience: "3.5+ years",
+    focus: ["Web Development", "Mobile Apps", "Robotics", "DevOps", "Cloud Infrastructure"],
+    location: "Nigeria",
+};
