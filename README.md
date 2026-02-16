@@ -6,7 +6,7 @@ I build high-scalable Web Applications. I focus on performance, observability, a
 - 🔭 Currently: working on a image steganography web app
 - 🌱 Learning: observability patterns & scalable streaming systems
 - 🧰 Tech: React, Python, tailwindCSS, Next.js, Node.js, Docker, javaScript
-- 📫 Contact: cyber404@gmail.com · https://your-portfolio.example.com
+- 📫 Contact: cyber404@gmail.com · https://techguykunle.netlify.app
 - ⚡ Fun fact: I built my own product selling website 
 
 ## Featured projects
